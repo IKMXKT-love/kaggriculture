@@ -1,11 +1,11 @@
 # Kaggriculture 项目完整归档
 
-比赛项目于 2026-10-01（Asia/Taipei）归档。仓库为私有，归属 **WHmaoxian123（Lvasi）**。
+比赛项目于 2026-10-01（Asia/Taipei）归档。
 
 ## 文件在哪里
 
 - `project/`：可以直接浏览的源码、文档、配置和历史提交包。
-- [完整备份下载](https://github.com/WHmaoxian123/kaggriculture/releases/tag/archive-20261001)：包含原项目目录中的每一个文件，包括反馈、对战记录、实验数据、检查点、运行环境和缓存。
+- [完整备份下载](https://github.com/IKMXKT-love/kaggriculture/releases/tag/archive-20261001)：包含原项目目录中的每一个文件，包括反馈、对战记录、实验数据、检查点、运行环境和缓存。
 - `ARCHIVE_MANIFEST.json`：逐文件大小、SHA-256 和原目录结构。
 - `READABLE_FILES.json`：直接放入仓库的原文件清单；其余原文件同样完整保存在备份中。
 
